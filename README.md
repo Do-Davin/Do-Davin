@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Do-Davin/Do-Davin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,105 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+```
+ ██████╗  █████╗ ██╗   ██╗██╗███╗   ██╗
+ ██╔══██╗██╔══██╗██║   ██║██║████╗  ██║
+ ██║  ██║███████║██║   ██║██║██╔██╗ ██║
+ ██║  ██║██╔══██║╚██╗ ██╔╝██║██║╚██╗██║
+ ██████╔╝██║  ██║ ╚████╔╝ ██║██║ ╚████║
+ ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
+```
+
+**Software Engineering Student · Full-Stack Developer · Production-Focused**
+
+<!-- [![Status](https://img.shields.io/badge/Status-Open%20to%20Internship-0d1117?style=flat-square&labelColor=238636&color=238636)](.) -->
+[![Freelance](https://img.shields.io/badge/Freelance-Available-0d1117?style=flat-square&labelColor=1f6feb&color=1f6feb)](.)
+
+</div>
+
+---
+
+## About me
+
+Software engineering student building scalable, production-ready systems with clean architecture and reliable deployment practices.
+
+---
+
+## Featured Projects
+
+**[Electro-Store](https://github.com/Do-Davin/electro-store.git)** — Full-Stack E-Commerce Platform
+
+> Vue 3 · TailwindCSS · NestJS · PostgreSQL · Stripe · Docker · Render
+
+Production-grade e-commerce system with complete order lifecycle control, real-time inventory validation, and secure payment integration via Stripe. Deployed end-to-end with Docker and cloud services.
+
+---
+
+**[Portfolio Website](https://github.com/Do-Davin/davin-do-portfolio.git)** — Personal Brand
+
+> React · TailwindCSS · Vercel
+
+Clean, minimal personal website deployed on Vercel — built to reflect the same standards I apply to production systems.
+
+---
+
+## Tech Stack
+
+**Programming Languages**
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+
+**Frontend**
+
+![Vue](https://img.shields.io/badge/Vue%203-0d1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F)
+![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+
+**DevOps & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)
+
+---
+
+## Available for Freelance
+
+Open to freelance opportunities where I can help build scalable, production-ready systems.
+I bring a strong engineering mindset, self-direction, and a habit of reading the documentation before writing code.
+
+---
+
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-Do%20Davin-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Do-Davin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Do%20Davin-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/do-davin-598761370/)
+[![Email](https://img.shields.io/badge/Email-davin.do.kh%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:davin.do.kh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dodavin.com-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)](https://davin-do-portfolio.vercel.app)
+
+---
+
+<div align="center">
+
+*Building things that work. Shipping things that last.*
+
+</div>
