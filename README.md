@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 **Software Engineering Student · Full-Stack Developer · Production-Focused**
 
 <!-- [![Status](https://img.shields.io/badge/Status-Open%20to%20Internship-0d1117?style=flat-square&labelColor=238636&color=238636)](.) -->
-[![Freelance](https://img.shields.io/badge/Freelance-Available-0d1117?style=flat-square&labelColor=1f6feb&color=1f6feb)](.)
+<!-- [![Freelance](https://img.shields.io/badge/Freelance-Available-0d1117?style=flat-square&labelColor=1f6feb&color=1f6feb)](.) -->
 
 </div>
 
@@ -58,13 +58,6 @@ Software engineering student building scalable, production-ready systems with cl
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)
-
----
-
-## Available for Freelance
-
-Open to freelance opportunities where I can help build scalable, production-ready systems.
-I bring a strong engineering mindset, self-direction, and a habit of reading the documentation before writing code.
 
 ---
 
