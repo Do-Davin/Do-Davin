@@ -61,15 +61,6 @@ Software engineering student building scalable, production-ready systems with cl
 
 ---
 
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-Do%20Davin-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Do-Davin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Do%20Davin-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/do-davin-598761370/)
-[![Email](https://img.shields.io/badge/Email-davin.do.kh%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:davin.do.kh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dodavin.com-0d1117?style=flat-square&logo=vercel&logoColor=ffffff)](https://davin-do-portfolio.vercel.app)
-
----
-
 <div align="center">
 
 *Building things that work. Shipping things that last.*
