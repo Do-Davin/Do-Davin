@@ -39,24 +39,6 @@ Software engineering student building scalable, production-ready systems with cl
 
 ---
 
-## Featured Projects
-
-**[Electro-Store](https://github.com/Do-Davin/electro-store.git)** — Full-Stack E-Commerce Platform
-
-> Vue 3 · TailwindCSS · NestJS · PostgreSQL · Stripe · Docker · Render
-
-Production-grade e-commerce system with complete order lifecycle control, real-time inventory validation, and secure payment integration via Stripe. Deployed end-to-end with Docker and cloud services.
-
----
-
-**[Portfolio Website](https://github.com/Do-Davin/davin-do-portfolio.git)** — Personal Brand
-
-> React · TailwindCSS · Vercel
-
-Clean, minimal personal website deployed on Vercel — built to reflect the same standards I apply to production systems.
-
----
-
 ## Tech Stack
 
 **Programming Languages**
